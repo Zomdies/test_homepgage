@@ -1,2 +1,2 @@
-import connect from '/vkontakte/vk-connect';
+import connect from './vkontakte/vk-connect';
 connect.send("VKWebAppInit", {});
